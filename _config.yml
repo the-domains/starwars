@@ -1,0 +1,28 @@
+name: starwars
+favicon: null
+layout_spectrum: 0.06648205919191241
+typography_spectrum: 0.6190497572533786
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9022237362805754
+  lightness: 0.46935638156719506
+  saturation: 0.594445341033861
+  rhythmicContrast: 0.2716971004847437
+purpose: []
